@@ -47,5 +47,5 @@ Embedded system for real-time sensor data acquisition and monitoring.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add LinkedIn Link)
+- LinkedIn:(https://www.linkedin.com/in/yashvi-pandey-980694323/)
 - Email: pandeyyashvi5@gmail.com
